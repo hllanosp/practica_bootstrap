@@ -1,0 +1,24 @@
+.*{
+	padding:0px;
+	margin:0px;
+}
+header{
+	color:white;
+	height:90px;
+	background-color:#2d3d51;
+	width:100%;
+}
+p{
+	color:white;
+	background-coloer:#E6E6E6;
+}
+article{
+	
+	background-color:gray;
+
+}
+aside{
+	color:black;
+	
+	background-color:purple;
+}
